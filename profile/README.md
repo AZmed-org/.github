@@ -18,7 +18,7 @@
 
 ## <div align="center">Mission</div>
 
-Augmenting docotors with the power of AI. 
+Augmenting doctors with the power of AI. 
 
 ## <div align="center">Contact</div>
 
